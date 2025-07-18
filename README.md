@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Hetarth Jodha
-
-🎓 B.Tech Materials Engineering @ IIT Jodhpur (2026)    
+# 👋 Hi, I'm Hetarth Jodha    
 
 🌐 My Profiles
 - 🧠 LeetCode: [leetcode.com/hetarthjodha](https://leetcode.com/hetarthjodha)
